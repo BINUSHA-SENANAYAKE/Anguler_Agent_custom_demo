@@ -1,6 +1,6 @@
 .fixed_field{
   width: 900px;
-  background-color: aquamarine;
+
 }
 .Sub_component_1{
   margin: 10px;
@@ -23,5 +23,11 @@
   color: #eff3f6;
   font-size: 16px;
 }
-
+.sub_t{
+  background-color: white;
+  padding: 10px;
+}
+.hr-tag{
+  border-top: 6px solid;
+}
 
