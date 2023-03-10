@@ -13,6 +13,7 @@
 }
 .card_1{
   background-color: #0033ff;
+  border-radius: 8px;
 }
 .Name_tag{
   color: #eff3f6;
@@ -28,6 +29,12 @@
   padding: 10px;
 }
 .hr-tag{
-  border-top: 6px solid;
+  border-top: 2px solid;
 }
-
+.btn_doted{
+  border-style: dotted;
+  font-size: 15px;
+  padding: 10px;
+  margin-left: 8px;
+  margin-bottom: 10px;
+}
