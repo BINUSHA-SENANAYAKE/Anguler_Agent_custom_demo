@@ -1,0 +1,27 @@
+.fixed_field{
+  width: 900px;
+  background-color: aquamarine;
+}
+.Sub_component_1{
+  margin: 10px;
+}
+.accordion-button{
+  background-color: #eff3f6;
+}
+.accordion-collapse{
+  background-color: #eff3f6;
+}
+.card_1{
+  background-color: #0033ff;
+}
+.Name_tag{
+  color: #eff3f6;
+  padding-top: 12px;
+  padding-left: 15px;
+}
+.p-3{
+  color: #eff3f6;
+  font-size: 16px;
+}
+
+
