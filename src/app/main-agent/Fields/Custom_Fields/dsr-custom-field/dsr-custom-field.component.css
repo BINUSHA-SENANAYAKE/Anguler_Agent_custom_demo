@@ -1,0 +1,40 @@
+.fixed_field{
+  width: 900px;
+
+}
+.Sub_component_1{
+  margin: 10px;
+}
+.accordion-button{
+  background-color: #eff3f6;
+}
+.accordion-collapse{
+  background-color: #eff3f6;
+}
+.card_1{
+  background-color: #0033ff;
+  border-radius: 8px;
+}
+.Name_tag{
+  color: #eff3f6;
+  padding-top: 12px;
+  padding-left: 15px;
+}
+.p-3{
+  color: #eff3f6;
+  font-size: 16px;
+}
+.sub_t{
+  background-color: white;
+  padding: 10px;
+}
+.hr-tag{
+  border-top: 2px solid;
+}
+.btn_doted{
+  border-style: dotted;
+  font-size: 15px;
+  padding: 10px;
+  margin-left: 8px;
+  margin-bottom: 10px;
+}
