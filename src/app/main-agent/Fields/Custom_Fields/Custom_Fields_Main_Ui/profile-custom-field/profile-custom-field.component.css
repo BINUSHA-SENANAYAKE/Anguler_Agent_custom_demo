@@ -31,10 +31,23 @@
 .hr-tag{
   border-top: 2px solid;
 }
-.btn_doted{
+.btn_doted {
   border-style: dotted;
   font-size: 15px;
   padding: 10px;
   margin-left: 8px;
   margin-bottom: 10px;
+}
+/*.modal{*/
+/*width: 1000px;*/
+/*}*/
+app-pop-up-radio-button{
+  margin-bottom:400px;
+}
+.modal-header{
+  background-color: darkblue;
+  color: white;
+}
+.btn-close{
+  color: white;
 }
