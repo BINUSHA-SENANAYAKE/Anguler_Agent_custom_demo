@@ -1,0 +1,32 @@
+<div class="custom_Fields">
+  <div class="d-flex">
+    <div class="p-2 flex-grow-1"><h4>Custom Fields - Profile </h4><p style="font-size: 12px;">You can create different fields specific to different agent types</p></div>
+    <div class="p-2"><button type="button" class="btn btn-primary">USE EXISTING CUSTOM FIELDS</button></div>
+  </div>
+</div>
+
+<!-- Button trigger modal -->
+<button type="button" style="border-style: dot-dash" class="btn_doted btn-outline-dark" data-bs-toggle="modal" data-bs-target="#PopUpModal">
+  Create new attribute
+</button>
+
+<!--Modal-->
+<div class="modal fade" id="PopUpModal" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content">
+
+      <div class="modal-header">
+        <app-pop-up-header></app-pop-up-header>
+      </div>
+
+      <div class="modal-body">
+        <app-pop-up-body-up></app-pop-up-body-up>
+      </div>
+
+      <div>
+        <app-pop-up-footer></app-pop-up-footer>
+      </div>
+
+    </div>
+  </div>
+</div>

@@ -1,0 +1,10 @@
+.container {
+  margin: 20px;
+}
+
+
+
+.remove-btn {
+  cursor: pointer;
+  font-size: 20px;
+}
